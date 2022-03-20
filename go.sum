@@ -59,6 +59,8 @@ github.com/rizkaasta/tugas_handler v0.0.0-20220317122839-84dfef8f267d h1:/iHZE22
 github.com/rizkaasta/tugas_handler v0.0.0-20220317122839-84dfef8f267d/go.mod h1:TPAEwkuTYbSjXuw24lMp49JWpOKIiqD9RGkc3FrJB/c=
 github.com/rizkaasta/tugas_handler v0.0.0-20220320083510-0399807c9fa2 h1:Ti2Rb89Lzj2KlINLsZ3x6LAA+gd0WDIQSXPzk2xsoQI=
 github.com/rizkaasta/tugas_handler v0.0.0-20220320083510-0399807c9fa2/go.mod h1:TPAEwkuTYbSjXuw24lMp49JWpOKIiqD9RGkc3FrJB/c=
+github.com/rizkaasta/tugas_handler v0.0.0-20220320092321-86f12d7e25a5 h1:DVxI8yVXsVcRiyM78er/aZHXX5QcUofX4wb2xdnBYn4=
+github.com/rizkaasta/tugas_handler v0.0.0-20220320092321-86f12d7e25a5/go.mod h1:TPAEwkuTYbSjXuw24lMp49JWpOKIiqD9RGkc3FrJB/c=
 github.com/rogpeppe/go-internal v1.6.1/go.mod h1:xXDCJY+GAPziupqXw64V24skbSoqbTEfhy4qGm1nDQc=
 github.com/rogpeppe/go-internal v1.8.0/go.mod h1:WmiCO8CzOY8rg0OYDC4/i/2WRWAB6poM+XZ2dLUbcbE=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
