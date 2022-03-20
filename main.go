@@ -20,5 +20,7 @@ func main() {
 	r.GET("/jurnal/:no", handler.Jurnal)
 	r.GET("/pengarang/:pengarang", handler.Pengarang)
 	r.GET("/judul/:judul", handler.Judul)
+	//POST
+	r.POST("/mahasiswa", handler.DataMahasiswa)
 	r.Run()
 }
